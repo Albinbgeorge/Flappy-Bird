@@ -31,7 +31,7 @@ bird_vel = 0
 gravity = 0.4
 jump = -6
 
-# Pipes (RECTANGLES)
+# Pipes 
 pipe_width = 60
 pipe_gap = 150
 pipe_speed = 2
